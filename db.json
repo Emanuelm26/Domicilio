@@ -1,0 +1,12 @@
+{
+  "domicilio" : {
+     "type_dom":"PARTICULAR",
+     "provincia":"Santa Cruz",
+     "localidad":"Rio Turbio",
+     "cod_postal":9407,
+     "calle":"La Rioja",
+     "nro":126,
+     "piso":"",
+     "dpto":""
+  }
+}
