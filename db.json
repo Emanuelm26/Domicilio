@@ -2,8 +2,8 @@
   "contacto" : [  
     {
      "type_dom":"PARTICULAR",
-     "provincia":"Santa Cruz",
-     "localidad":"Rio Turbio",
+     "provincia":"SANTA CRUZ",
+     "localidad":"RIO TURBIO",
      "cod_postal":9407,
      "calle":"La Rioja",
      "nro":126,
@@ -11,14 +11,14 @@
      "dpto":""
   },  
   {
-     "type_dom":"PARTICULAR",
-     "provincia":"Santa Cruz",
-     "localidad":"Rio Turbio",
-     "cod_postal":9407,
-     "calle":"La Rioja",
-     "nro":126,
-     "piso":"",
-     "dpto":""
+     "type_dom":"PROFESIONAL",
+     "provincia":"BUENOS AIRES",
+     "localidad":"LA PLATA",
+     "cod_postal":1900,
+     "calle":"66",
+     "nro":510,
+     "piso":"3",
+     "dpto":"C"
   }
     ]
 }
